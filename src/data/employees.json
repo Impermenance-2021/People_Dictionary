@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "image": "https://randomuser.me/api/portraits/women/90.jpg",
+    "name": "Anurenjini R",
+    "department": "Assistant Professor",
+    "email": "r.anurenjini@jainuniversity.ac.in",
+    "phone": "555-321-2345"
+  },
+  {
+    "id": 2,
+    "image": "https://randomuser.me/api/portraits/men/90.jpg",
+    "name": "Ashwini Mathur",
+    "department": "Assistant Professor",
+    "email": "ashwini.mathur@jainuniversity.ac.in",
+    "phone": "7905281329"
+  }
+  
+]
